@@ -10,6 +10,7 @@ To run these Jupyter notebooks, the following software is required:
 * [Numpy 1.15](https://www.scipy.org/scipylib/download.html) or greater (includes SciPy)
 * [Jupyter](https://jupyter-notebook.readthedocs.io/en/stable/) 
 
+The [Anaconda Python distribution](https://www.anaconda.com/download/) includes Python, the Spyder integrated development environment, and a whole universe of Python packages for mathematics and engineering, including Numpy, SciPY, and Jupyter. 
 
 ## Executing these notebooks locally
 After installing Python and Jupyter, cd to the directory where these notebooks are saved, open up a command window or shell interface, and type the following command:
