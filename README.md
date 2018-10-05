@@ -11,10 +11,10 @@ To run these Jupyter notebooks, the following software is required:
 * [SciPy](https://scipy.org/install.html)
 * [Jupyter](https://jupyter-notebook.readthedocs.io/en/stable/) 
 
-The [Anaconda Python distribution](https://www.anaconda.com/download/) includes Python, the Spyder integrated development environment, and a whole universe of Python packages for mathematics and engineering, including Numpy, SciPY, and Jupyter. 
+The [Anaconda Python distribution](https://www.anaconda.com/download/) comes highly recommended, and it includes Python, the Spyder integrated development environment, and a whole universe of Python packages for mathematics and engineering, including Numpy, SciPy, and Jupyter. 
 
 ## Executing these notebooks locally
-After installing Python and Jupyter, cd to the directory where these notebooks are saved, open up a command window or shell interface, and type the following command:
+After installing Python and Jupyter, navigate to this project's home directory where these notebooks are saved, open up a command window or shell interface, and type the following command:
 
      jupyter notebook
 
@@ -25,5 +25,5 @@ Your default browser should open up to show the Notebook Dashboard at `http://lo
 
 ## View these notebooks on NBViewer
 
-* [Ch1](https://nbviewer.jupyter.org/github/buruzaemon/IntroductionToProbabilityPy/blob/master/Ch1.ipynb) - Vectors; Factorials and binomial coefficients; Sampling and simulation; Matching problem simulation; Birthday problem calculation and simulation
+* [Ch1](http://bit.ly/2zSHKBP) - Vectors; Factorials and binomial coefficients; Sampling and simulation; Matching problem simulation; Birthday problem calculation and simulation
 
