@@ -10,7 +10,11 @@ To run these Jupyter notebooks, the following software is required:
 * [Numpy](https://www.scipy.org/scipylib/download.html)
 * [SciPy](https://scipy.org/install.html)
 * [Jupyter](https://jupyter-notebook.readthedocs.io/en/stable/) 
-* [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/) for Chapter 2
+
+
+Additionally, if you want to run the interactive game for the Monty Hall
+problme in Chapter 2, you will need the following package:
+* [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/)
   
   ![Ch 2 interactive widget for Monty Hall problem](https://github.com/buruzaemon/IntroductionToProbabilityPy/blob/master/images/monty_widget.png)
 
