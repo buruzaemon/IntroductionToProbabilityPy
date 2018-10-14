@@ -11,6 +11,8 @@ To run these Jupyter notebooks, the following software is required:
 * [SciPy](https://scipy.org/install.html)
 * [Jupyter](https://jupyter-notebook.readthedocs.io/en/stable/) 
 * [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/) for Chapter 2
+  ![Ch 2 interactive widget for Monty Hall
+  problem](https://github.com/buruzaemon/IntroductionToProbabilityPy/blob/master/images/monty_widget.png)
 
 The [Anaconda Python distribution](https://www.anaconda.com/download/) comes highly recommended, and it includes Python, the Spyder integrated development environment, and a whole universe of Python packages for mathematics and engineering, including Numpy, SciPy, and Jupyter. 
 
