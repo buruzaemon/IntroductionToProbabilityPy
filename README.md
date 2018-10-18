@@ -33,4 +33,7 @@ Your default browser should open up to show the Notebook Dashboard at `http://lo
 
 * [Ch1](http://bit.ly/2zSHKBP) - Vectors; Factorials and binomial coefficients; Sampling and simulation; Matching problem simulation; Birthday problem calculation and simulation
 * [Ch2](http://bit.ly/2pTq8QG) - Simulating the frequentist interpretation; Monty Hall simulation
+* [Ch3](http://bit.ly/2pYpXU7) - Distributions in SciPy; Binomial distribution; Hypergeometric distribution; Discrete distributions with finite support 
 
+----
+&copy; Blitzstein, Joseph K.; Hwang, Jessica. Introduction to Probability (Chapman & Hall/CRC Texts in Statistical Science).
