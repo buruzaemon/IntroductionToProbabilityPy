@@ -35,7 +35,7 @@ Your default browser should open up to show the Notebook Dashboard at `http://lo
 * [Ch2](http://bit.ly/2pTq8QG) - Simulating the frequentist interpretation; Monty Hall simulation
 * [Ch3](http://bit.ly/2pYpXU7) - Distributions in SciPy; Binomial distribution; Hypergeometric distribution; Discrete distributions with finite support 
 * [Ch4](http://bit.ly/2yFDNzu) - Geometric, Negative Binomial, and Poisson; Matching simulation; Distinct birthdays simulation
-* [Ch5]() - Uniform, Normal and Exponential distributions; Plots in Matplotlib; Universality with Logistic; Poisson process simulation 
+* [Ch5](http://bit.ly/2qWXlLp) - Uniform, Normal and Exponential distributions; Plots in Matplotlib; Universality with Logistic; Poisson process simulation 
 
 ----
 &copy; Blitzstein, Joseph K.; Hwang, Jessica. Introduction to Probability (Chapman & Hall/CRC Texts in Statistical Science).
