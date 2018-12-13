@@ -31,12 +31,14 @@ Your default browser should open up to show the Notebook Dashboard at `http://lo
 
 ## View these notebooks on NBViewer
 
-* [Ch1](http://bit.ly/2zSHKBP) - Vectors; Factorials and binomial coefficients; Sampling and simulation; Matching problem simulation; Birthday problem calculation and simulation
-* [Ch2](http://bit.ly/2pTq8QG) - Simulating the frequentist interpretation; Monty Hall simulation
-* [Ch3](http://bit.ly/2pYpXU7) - Distributions in SciPy; Binomial distribution; Hypergeometric distribution; Discrete distributions with finite support 
-* [Ch4](http://bit.ly/2yFDNzu) - Geometric, Negative Binomial, and Poisson; Matching simulation; Distinct birthdays simulation
-* [Ch5](http://bit.ly/2qWXlLp) - Uniform, Normal and Exponential distributions; Plots in Matplotlib; Universality with Logistic; Poisson process simulation 
-* [Ch6](http://bit.ly/2zVZQT0) - Functions; Moments; Medians and modes; Dice simulation
+* [Ch1](http://bit.ly/2zSHKBP) - Probability and Counting: Vectors; Factorials and binomial coefficients; Sampling and simulation; Matching problem simulation; Birthday problem calculation and simulation
+* [Ch2](http://bit.ly/2pTq8QG) - Conditional Probability: Simulating the frequentist interpretation; Monty Hall simulation
+* [Ch3](http://bit.ly/2pYpXU7) - Random Variables and their Distributions: Distributions in SciPy; Binomial distribution; Hypergeometric distribution; Discrete distributions with finite support 
+* [Ch4](http://bit.ly/2yFDNzu) - Expectation: Geometric, Negative Binomial, and Poisson; Matching simulation; Distinct birthdays simulation
+* [Ch5](http://bit.ly/2qWXlLp) - Continuous Random Variables: Uniform, Normal and Exponential distributions; Plots in Matplotlib; Universality with Logistic; Poisson process simulation 
+* [Ch6](http://bit.ly/2zVZQT0) - Moments: Functions; Moments; Medians and modes; Dice simulation
+* [Ch7](http://bit.ly/2zYpG9f) - Joint Distributions: Multinomial; Multivariate Normal; Cauchy
+* [Ch8](http://bit.ly/2Eu3rvp) - Transformations: Beta and Gamma distributions; Convolution of Uniforms; Bayes' billiards; Simulating order statistics
 
 ----
 &copy; Blitzstein, Joseph K.; Hwang, Jessica. Introduction to Probability (Chapman & Hall/CRC Texts in Statistical Science).
