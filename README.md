@@ -4,26 +4,26 @@ Python equivalent to the R code sections in Blitzstein and Hwang's [Introduction
 
 ## Requirements
 
-To run these Jupyter notebooks, the following software is required:
+To run these Jupyter notebooks, you need:
 
 * [Python 3.5](https://www.python.org/downloads/release/python-350/) or greater
+
+The [Anaconda Python distribution](https://www.anaconda.com/download/) comes highly recommended, and it includes Python, the Spyder integrated development environment, and a whole universe of Python packages for mathematics and engineering, including Numpy, SciPy, and Jupyter. 
+
+Required Python packages:
+
+* [Jupyter](https://jupyter-notebook.readthedocs.io/en/stable/) 
 * [Numpy](https://www.scipy.org/scipylib/download.html)
 * [SciPy](https://scipy.org/install.html)
-* [Jupyter](https://jupyter-notebook.readthedocs.io/en/stable/) 
-
-
-To run the interactive game for the Monty Hall problem in Chapter 2, you will also need the following package:
-* [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/)
+* [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/) ... for the interactive game for the Monty Hall problem in Chapter 2
   
   ![Ch 2 interactive widget for Monty Hall problem](https://github.com/buruzaemon/IntroductionToProbabilityPy/blob/master/images/monty_widget.png)
 
-The [Anaconda Python distribution](https://www.anaconda.com/download/) comes highly recommended, and it includes Python, the Spyder integrated development environment, and a whole universe of Python packages for mathematics and engineering, including Numpy, SciPy, and Jupyter. 
 
 ## Executing these notebooks locally
 After installing Python and Jupyter, navigate to this project's home directory where these notebooks are saved, open up a command window or shell interface, and type the following command:
 
      jupyter notebook
-
 
 Your default browser should open up to show the Notebook Dashboard at `http://localhost:8888`.
 
