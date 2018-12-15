@@ -15,7 +15,7 @@ Required Python packages:
 * [Jupyter](https://jupyter-notebook.readthedocs.io/en/stable/) 
 * [Numpy](https://www.scipy.org/scipylib/download.html)
 * [SciPy](https://scipy.org/install.html)
-* [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/) ... for the interactive game for the Monty Hall problem in Chapter 2
+* [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/) ... interactive game for the Monty Hall problem in Chapter 2
   
   ![Ch 2 interactive widget for Monty Hall problem](https://github.com/buruzaemon/IntroductionToProbabilityPy/blob/master/images/monty_widget.png)
 
