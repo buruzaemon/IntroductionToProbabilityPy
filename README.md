@@ -39,6 +39,8 @@ Your default browser should open up to show the Notebook Dashboard at `http://lo
 * [Ch6](http://bit.ly/2zVZQT0) - Moments: Functions; Moments; Medians and modes; Dice simulation
 * [Ch7](http://bit.ly/2zYpG9f) - Joint Distributions: Multinomial; Multivariate Normal; Cauchy
 * [Ch8](http://bit.ly/2Eu3rvp) - Transformations: Beta and Gamma distributions; Convolution of Uniforms; Bayes' billiards; Simulating order statistics
+* [Ch9](http://bit.ly/2LgIHIg) - Conditional Expectation: Mystery prize simulation; Time until HH vs. HT; Linear regression 
+* [Ch10](http://bit.ly/2Ghzz7x) - Inequalities and Limit Theorems: Jensen's inequality; Visualization of the law of large numbers; Monte Carlo estimate of &pi;; Visualizations of the central limit theorem; Chi-Square and Student-<i>t</i> distributions
 
 ----
 &copy; Blitzstein, Joseph K.; Hwang, Jessica. Introduction to Probability (Chapman & Hall/CRC Texts in Statistical Science).
