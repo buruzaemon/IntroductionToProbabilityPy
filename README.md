@@ -4,13 +4,13 @@ Python equivalent to the R code sections in Blitzstein and Hwang's [Introduction
 
 ## Requirements
 
-### To run these Jupyter notebooks, you need:
+#### To run these Jupyter notebooks, you need:
 
 * [Python 3.5](https://www.python.org/downloads/release/python-350/) or greater
 
 The [Anaconda Python distribution](https://www.anaconda.com/download/) comes highly recommended, and it includes Python, the Spyder integrated development environment, and a whole universe of Python packages for mathematics and engineering, including Numpy, SciPy, and Jupyter. 
 
-### Required Python packages:
+#### Required Python packages:
 
 * [Jupyter](https://jupyter-notebook.readthedocs.io/en/stable/) 
 * [Numpy](https://www.scipy.org/scipylib/download.html)
