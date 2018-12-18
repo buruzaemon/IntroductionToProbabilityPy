@@ -17,7 +17,7 @@ The [Anaconda Python distribution](https://www.anaconda.com/download/) comes hig
 * [SciPy](https://scipy.org/install.html)
 * [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/) ... interactive game for the Monty Hall problem in Chapter 2
   
-  ![Ch 2 interactive widget for Monty Hall problem](https://github.com/buruzaemon/IntroductionToProbabilityPy/blob/master/images/monty_widget.png)
+  ![Ch 2 interactive widget for Monty Hall problem](https://github.com/buruzaemon/IntroductionToProbabilityPy/blob/master/assets/monty_widget.png)
 
 
 ## Executing these notebooks locally
