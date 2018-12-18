@@ -43,6 +43,7 @@ Your default browser should open up to show the Notebook Dashboard at `http://lo
 * [Ch10](http://bit.ly/2Ghzz7x) - Inequalities and Limit Theorems: Jensen's inequality; Visualization of the law of large numbers; Monte Carlo estimate of &pi;; Visualizations of the central limit theorem; Chi-Square and Student-<i>t</i> distributions
 * [Ch11](http://bit.ly/2EBtiSz) - Markov Chains: Matrix calculations; Gambler's ruin; Simulating from a finite-state Markov chain 
 * [Ch12](http://bit.ly/2LmpPYk) - Markov Chain Monte Carlo: Metropolis-Hastings; Gibbs
+* [Ch13](http://bit.ly/2S7t1tr) - Poisson Processes: 1D Poisson process; Thinning; 2D Poisson process 
 
 ----
 &copy; Blitzstein, Joseph K.; Hwang, Jessica. Introduction to Probability (Chapman & Hall/CRC Texts in Statistical Science).
