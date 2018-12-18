@@ -42,6 +42,7 @@ Your default browser should open up to show the Notebook Dashboard at `http://lo
 * [Ch9](http://bit.ly/2LgIHIg) - Conditional Expectation: Mystery prize simulation; Time until HH vs. HT; Linear regression 
 * [Ch10](http://bit.ly/2Ghzz7x) - Inequalities and Limit Theorems: Jensen's inequality; Visualization of the law of large numbers; Monte Carlo estimate of &pi;; Visualizations of the central limit theorem; Chi-Square and Student-<i>t</i> distributions
 * [Ch11](http://bit.ly/2EBtiSz) - Markov Chains: Matrix calculations; Gambler's ruin; Simulating from a finite-state Markov chain 
+* [Ch12](http://bit.ly/2LmpPYk) - Markov Chain Monte Carlo: Metropolis-Hastings; Gibbs
 
 ----
 &copy; Blitzstein, Joseph K.; Hwang, Jessica. Introduction to Probability (Chapman & Hall/CRC Texts in Statistical Science).
