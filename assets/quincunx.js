@@ -213,8 +213,7 @@ define('quincunx', ['d3'], function (d3) {
         function restart(e) {
             var b = def_bins;
             var p = def_p;
-            var w = Number(document.getElementById('quincunx').offsetWidth);
-            console.log(w);
+            var w = Math.max(Number(document.getElementById('quincunx').offsetWidth), 800);
             if (e) {
                 b = Number(document.getElementById('qxbins').value);
                 p = (Number(document.getElementById('qxp').value) / 100.0 ).toFixed(2);
