@@ -33,7 +33,13 @@ After installing Python and Jupyter, navigate to this project's home directory w
 
 Your default browser should open up to show the Notebook Dashboard at `http://localhost:8888`.
 
+These notebooks have been confirmed to run on:
 
+* Chrome 71.0.3578.98 (official build), 64-bit on Windows 10
+* Firefox 64.0, 64-bit on Windows 10
+
+
+_Internet Explorer is not recommended!__
 
 ## View these notebooks on NBViewer
 
