@@ -19,6 +19,12 @@ The [Anaconda Python distribution](https://www.anaconda.com/download/) comes hig
   
   ![Ch 2 interactive widget for Monty Hall problem](https://github.com/buruzaemon/IntroductionToProbabilityPy/blob/master/assets/monty_widget.png)
 
+#### Other requirements / dependencies
+
+* [D3.js](https://d3js.org/) on the [Google Hosted Libraries content delivery network](https://developers.google.com/speed/libraries/#d3js) ... interactive visualization for the Central Limit Theorem
+
+  ![Ch 10 interactive visualization for CLR](https://github.com/buruzaemon/IntroductionToProbabilityPy/blob/master/assets/clr_visualization.png)
+
 
 ## Executing these notebooks locally
 After installing Python and Jupyter, navigate to this project's home directory where these notebooks are saved, open up a command window or shell interface, and type the following command:
