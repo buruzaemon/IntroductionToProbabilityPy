@@ -14,23 +14,6 @@ define('quincunx', ['d3'], function (d3) {
             def_speed = 500,
             def_p = 0.50;
 
-        $(outputarea)
-            .append('<table>')
-            .append('<tr>')
-            .append('<th colspan=3><label> delay (ms)</label></th>')
-            .append('<td colspan=1><input id="qxspeed" class="qxcontrol" type="number" name="speed" min="0" max="1000" step="50" value="'+def_speed+'"></td>')
-            .append('</tr>')
-            .append('<tr>')
-            .append('<th colspan=3><label> num. bins </label></th>')
-            .append('<td colspan=1><input id="qxbins" class="qxcontrol" type="number" name="bins" min="1" max="25" value="'+def_bins+'"></td>')
-            .append('</tr>')
-            .append('<tr>')
-            .append('<th colspan=1><label> p = <span id="qxpval">'+def_p+'</span> </label></th>')
-            .append('<td colspan=3><input id="qxp" class="qxcontrol" type="range" min="0" max="100" value="50" class="slider"></td>')
-            .append('</tr>')
-            .append('</table>')
-            .append('<div id="quincunx"/>');
-
         /*
          * Calculate level in pyramid of triangles
          * for given triangle (path) element index 
@@ -80,8 +63,8 @@ define('quincunx', ['d3'], function (d3) {
             var container = d3.select('#quincunx');
             container.selectAll('svg').remove();
             var svg = container.append('svg')
-                .attr('height', height + 'px')
-                .attr('width', width + 'px');
+                .attr('viewBox', '0 0 '+width+' '+height)
+                .attr('preserveAspectRatio', 'xMinYmin meet');
             var g = svg.append('g')
                 .attr('transform', 'translate(' + (width / 2) + ',20)');
         
@@ -213,7 +196,7 @@ define('quincunx', ['d3'], function (d3) {
         function restart(e) {
             var b = def_bins;
             var p = def_p;
-            var w = Math.max(Number(document.getElementById('quincunx').offsetWidth), 800);
+            var w = Number(document.getElementById('quincunx').offsetWidth);
             if (e) {
                 b = Number(document.getElementById('qxbins').value);
                 p = (Number(document.getElementById('qxp').value) / 100.0 ).toFixed(2);

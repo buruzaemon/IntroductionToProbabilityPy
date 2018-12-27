@@ -1,0 +1,78 @@
+<style type="text/css">
+
+    .qxtable {
+        display:table;
+        border-spacing: 2px;
+        width:25%;
+    }
+
+    .qxrow {
+        display:table-row;
+    }
+
+    .qxcell {
+        display:table-cell;
+        vertical-align: baseline;
+    }
+
+    .qxcell input {
+        width: 5em;
+    }
+
+    #quincunx .ball {
+        fill: #d6604d;
+        opacity: 1;
+        stroke: #d6604d;
+    }
+
+    #quincunx .bar rect {
+        fill: #d6604d;
+        shape-rendering: crispEdges;
+    }
+
+    #quincunx .bar text {
+        fill: #fff;
+    }
+
+    #quincunx .axis path, #quincunx .axis line {
+        fill: none;
+        shape-rendering: crispEdges;
+        stroke: #000;
+    }
+
+    #quincunx .triangle {
+        fill: #4d4d4d;
+        stroke: #4d4d4d;
+        stroke-linejoin: round;
+        stroke-width: 4;
+    }
+</style>
+
+<div class='qxtable'>
+    <div class='qxrow'>
+        <div class='qxcell'>
+            <label for='speed'> delay (ms) </label>
+        </div>
+        <div class='qxcell'>
+            <input id='qxspeed' name='speed' type='number' name='speed' min='50' max='1000' step='50' value='500'>
+        </div>
+    </div>
+    <div class='qxrow'>
+        <div class='qxcell'>
+             <label for='bins'> num. bins </label>
+        </div>
+        <div class='qxcell'>
+            <input id='qxbins' name='bins' type='number' min='1' max='25' value='7'>
+        </div>
+    </div>
+    <div class='qxrow'>
+        <div class='qxcell'>
+            <label for='pvalue'> p = <span id="qxpval">0.50</span></label>
+        </div>
+        <div class='qxcell'>
+            <input id='qxp' name='pvalue' type='range' min='0' max='100' value='50'>
+        </div>
+    </div>
+</div>
+
+<div id="quincunx"/>;
