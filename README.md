@@ -15,6 +15,7 @@ The [Anaconda Python distribution](https://www.anaconda.com/download/) comes hig
 * [Jupyter](https://jupyter-notebook.readthedocs.io/en/stable/) 
 * [NumPy](https://www.scipy.org/scipylib/download.html)
 * [SciPy](https://scipy.org/install.html)
+* [Matplotlib](https://matplotlib.org/index.html)
 * [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/) ... interactive game for the Monty Hall problem in Chapter 2
   
   ![Ch 2 interactive widget for Monty Hall problem](https://github.com/buruzaemon/IntroductionToProbabilityPy/blob/master/assets/monty_widget.png)
@@ -31,15 +32,15 @@ After installing Python and Jupyter, navigate to this project's home directory w
 
      jupyter notebook
 
-Your default browser should open up to show the Notebook Dashboard at `http://localhost:8888`.
+Your default browser will open up to show the Notebook Dashboard at `http://localhost:8888`.
 
 These notebooks have been confirmed to run on:
 
-* Chrome 71.0.3578.98 (official build), 64-bit on Windows 10
-* Firefox 64.0, 64-bit on Windows 10
+* Chrome 71.0.3578.98 (official build), 64-bit and Firefox 64.0, 64-bit on Windows 10
+* Chrome 69.0.3497.100 (official build, 64-bin and Firefox 52.8.0, 64-bin on Windows 7
 
 
-_Internet Explorer is not recommended!__
+_Internet Explorer is not recommended!_
 
 ## View these notebooks on NBViewer
 
