@@ -1,6 +1,6 @@
 # IntroductionToProbabilityPy
 
-Python equivalent to the R code sections in Blitzstein and Hwang's [Introduction To Probability, 1st Edition](https://www.crcpress.com/Introduction-to-Probability/Blitzstein-Hwang/p/book/9781466575578)
+Jupyter notebooks with the Python equivalent to the R code sections in Blitzstein and Hwang's [Introduction To Probability, 1st Edition](https://www.crcpress.com/Introduction-to-Probability/Blitzstein-Hwang/p/book/9781466575578)
 
 ## Requirements
 
@@ -8,15 +8,15 @@ Python equivalent to the R code sections in Blitzstein and Hwang's [Introduction
 
 * [Python 3.5](https://www.python.org/downloads/release/python-350/) or greater
 
-The [Anaconda Python distribution](https://www.anaconda.com/download/) comes highly recommended, as it includes Python, the conda package manager, the Spyder integrated development environment, and a whole universe of Python packages for mathematics and engineering, including NumPy, SciPy, and Jupyter. 
+The [Anaconda Python distribution](https://www.anaconda.com/download/) comes highly recommended, as it includes Python, the conda package manager, the Spyder integrated development environment, and a whole universe of Python packages for mathematics and engineering, including NumPy, SciPy, Matplotlib and Jupyter.
 
 #### Required Python packages:
 
-* [Jupyter](https://jupyter-notebook.readthedocs.io/en/stable/) 
-* [NumPy](https://www.scipy.org/scipylib/download.html)
-* [SciPy](https://scipy.org/install.html)
-* [Matplotlib](https://matplotlib.org/index.html)
-* [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/) ... interactive game for the Monty Hall problem in Chapter 2
+* [Jupyter](https://jupyter-notebook.readthedocs.io/en/stable/) (v1.0.0)
+* [NumPy](https://www.scipy.org/scipylib/download.html) (v1.13.0)
+* [SciPy](https://scipy.org/install.html) (v0.19.1)
+* [Matplotlib](https://matplotlib.org/index.html) (v2.1.0)
+* [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/) (v7.4.2) ... interactive game for the Monty Hall problem in Chapter 2
   
   ![Ch 2 interactive widget for Monty Hall problem](https://github.com/buruzaemon/IntroductionToProbabilityPy/blob/master/assets/monty_widget.png)
 
@@ -38,6 +38,7 @@ These notebooks have been confirmed to run on:
 
 * Chrome 71.0.3578.98 (official build), 64-bit and Firefox 64.0, 64-bit on Windows 10
 * Chrome 69.0.3497.100 (official build, 64-bin and Firefox 52.8.0, 64-bin on Windows 7
+* Chrome 71.0.3578.98 (official build), 64-bit; Firefox 64.0 (64-bit); and Safari 12.0.2 (13606.3.4.1.4) on macOS (High Sierra, v10.13.6)
 
 
 _Internet Explorer is not recommended!_
