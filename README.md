@@ -12,7 +12,7 @@ Jupyter notebooks with the Python equivalent to the R code sections in Blitzstei
 
 The [Anaconda Python distribution](https://www.anaconda.com/download/) comes highly recommended, as it includes Python, the conda package manager, the Spyder integrated development environment, and a whole universe of Python packages for mathematics and engineering, including NumPy, SciPy, Matplotlib and Jupyter.
 
-#### Required Python packages:
+#### Minimum required Python packages:
 
 * [Jupyter](https://jupyter-notebook.readthedocs.io/en/stable/) (v1.0.0)
 * [NumPy](https://www.scipy.org/scipylib/download.html) (v1.13.0)
