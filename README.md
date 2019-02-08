@@ -24,7 +24,7 @@ The [Anaconda Python distribution](https://www.anaconda.com/download/) comes hig
 
 #### Other requirements / dependencies
 
-* [D3.js](https://d3js.org/) (v5.7.0) on the [Google Hosted Libraries content delivery network](https://developers.google.com/speed/libraries/#d3js) ... interactive visualization for the Central Limit Theorem in Chapter 10
+* [D3.js](https://d3js.org/) (v5.7.0) on the [Google Hosted Libraries content delivery network](https://developers.google.com/speed/libraries/#d3js) referenced from the interactive visualization for the Central Limit Theorem in Chapter 10
 
   ![Ch 10 interactive visualization for CLR](https://github.com/buruzaemon/IntroductionToProbabilityPy/blob/master/assets/clr_visualization.png)
 
