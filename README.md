@@ -36,7 +36,7 @@ After installing Python and Jupyter, navigate to this project's home directory w
 
 Your default browser will open up to show the Notebook Dashboard at `http://localhost:8888`.
 
-[MathJax](https://www.mathjax.org/#gettingstarted) is the javascript library Jupyter uses to render math/![LaTeX](https://github.com/buruzaemon/IntroductionToProbabilityPy/blob/master/assets/LaTeX.gif). 
+[MathJax](https://www.mathjax.org/#gettingstarted) is the javascript library Jupyter uses to render ![LaTeX](https://github.com/buruzaemon/IntroductionToProbabilityPy/blob/master/assets/LaTeX.gif). 
 
 These notebooks have been confirmed to run on:
 
