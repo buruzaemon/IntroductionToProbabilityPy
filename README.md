@@ -36,7 +36,7 @@ After installing Python and Jupyter, navigate to this project's home directory w
 
 Your default browser will open up to show the Notebook Dashboard at `http://localhost:8888`.
 
-[MathJax](https://www.mathjax.org/#gettingstarted) is the javascript library Jupyter uses to render ![LaTeX](https://github.com/buruzaemon/IntroductionToProbabilityPy/blob/master/assets/LaTeX.gif). To ensure that you have the absolute, latest version of MathJax rendering the math in your locally-executed notebooks, set the `NotebookApp.enable_mathjax` configuration parameter in `jupyter_notebook_config.py` to point to this [URL](https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML) (c.f. [Config file and command line options](https://jupyter-notebook.readthedocs.io/en/stable/config.html), Jupyter docs).
+[MathJax](https://www.mathjax.org/#gettingstarted) is the javascript library Jupyter uses to render ![LaTeX](https://github.com/buruzaemon/IntroductionToProbabilityPy/blob/master/assets/LaTeX.png). To ensure that you have the absolute, latest version of MathJax rendering the math in your locally-executed notebooks, set the `NotebookApp.enable_mathjax` configuration parameter in `jupyter_notebook_config.py` to point to this [URL](https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML) (c.f. [Config file and command line options](https://jupyter-notebook.readthedocs.io/en/stable/config.html), Jupyter docs).
 
 These notebooks have been confirmed to run on:
 
