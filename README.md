@@ -4,9 +4,11 @@ Jupyter notebooks with the Python equivalent to the R code sections in Blitzstei
 
 ## Requirements
 
-#### To run these Jupyter notebooks, you need:
+#### These Jupyter notebooks have been verified on the following Python versions:
 
-* [Python 3.5](https://www.python.org/downloads/release/python-350/) or greater
+* [Python 3.5](https://docs.python.org/3.5/whatsnew/3.5.html)
+* [Python 3.6](https://docs.python.org/3.6/whatsnew/3.6.html)
+* [Python 3.7](https://docs.python.org/3.7/whatsnew/3.7.html)
 
 The [Anaconda Python distribution](https://www.anaconda.com/download/) comes highly recommended, as it includes Python, the conda package manager, the Spyder integrated development environment, and a whole universe of Python packages for mathematics and engineering, including NumPy, SciPy, Matplotlib and Jupyter.
 
