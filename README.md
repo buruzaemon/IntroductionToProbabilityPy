@@ -41,7 +41,7 @@ Your default browser will open up to show the Notebook Dashboard at `http://loca
 These notebooks have been confirmed to run on:
 
 * Chrome 71.0.3578.98 (official build), 64-bit and Firefox 64.0, 64-bit on Windows 10
-* Chrome 69.0.3497.100 (official build, 64-bin and Firefox 52.8.0, 64-bin on Windows 7
+* Chrome 69.0.3497.100 (official build, 64-bit and Firefox 52.8.0, 64-bit on Windows 7
 * Chrome 71.0.3578.98 (official build), 64-bit; Firefox 64.0 (64-bit); and Safari 12.0.2 (13606.3.4.1.4) on macOS (High Sierra, v10.13.6)
 
 
