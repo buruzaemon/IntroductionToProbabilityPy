@@ -1,6 +1,6 @@
 # IntroductionToProbabilityPy
 
-Jupyter notebooks with the Python equivalent to the R code sections in Blitzstein and Hwang's [Introduction To Probability, 2nd Edition](https://www.crcpress.com/Introduction-to-Probability-Second-Edition/Blitzstein-Hwang/p/book/9781138369917)
+Jupyter notebooks with the Python equivalent to the R code sections in Blitzstein and Hwang's [Introduction To Probability, Second Edition](https://www.crcpress.com/Introduction-to-Probability-Second-Edition/Blitzstein-Hwang/p/book/9781138369917)
 
 ## Requirements
 
